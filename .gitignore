@@ -15,6 +15,7 @@ pyvenv.cfg
 .venv
 .env
 pip-selfcheck.json
+test_t2c\.env
 
 ### VirtualEnv ###
 # Virtualenv
